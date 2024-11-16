@@ -6,8 +6,8 @@ import androidx.lifecycle.ViewModel
 import net.iessochoa.pmdm.exameneva1_b.R
 
 class Ejercicio1ViewModel() : ViewModel(){
-    //lista de lenguajes
-    val lenguajes = listOf("Kotlin", "Java", "Python")
+    //lista de colores
+    val colores = listOf("Rojo", "Verde", "Azul")
 
 }
 
